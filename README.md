@@ -1,4 +1,5 @@
-# Arbeeshana AdBlock
+# Youtube_AdBlock_Extention
+(By Eshan Iqbal)
 
 **Version:** 1.0  
 **Description:** A personal ad blocker extension for blocking YouTube ads.
